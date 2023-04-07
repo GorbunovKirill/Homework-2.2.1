@@ -34,43 +34,43 @@ int main() {
 		s=static_cast<seasons>(p);
 
 		switch (s) {
-		case(seasons::€нварь):
+		case seasons::€нварь:
 			std::cout << "январь" << std::endl;
 			break;
-		case(seasons::февраль):
+		case seasons::февраль:
 			std::cout << "‘евраль" << std::endl;
 			break;
-		case(seasons::март):
+		case seasons::март:
 			std::cout << "ћарт" << std::endl;
 			break;
-		case(seasons::апрель):
+		case seasons::апрель:
 			std::cout << "јпрель" << std::endl;
 			break;
-		case(seasons::май):
+		case seasons::май:
 			std::cout << "ћай" << std::endl;
 			break;
-		case(seasons::июнь):
+		case seasons::июнь:
 			std::cout << "»юнь" << std::endl;
 			break;
-		case(seasons::июль):
+		case seasons::июль:
 			std::cout << "»юль" << std::endl;
 			break;
-		case(seasons::август):
+		case seasons::август:
 			std::cout << "јвгуст" << std::endl;
 			break;
-		case(seasons::сент€брь):
+		case seasons::сент€брь:
 			std::cout << "—ент€брь" << std::endl;
 			break;
-		case(seasons::окт€брь):
+		case seasons::окт€брь:
 			std::cout << "ќкт€брь" << std::endl;
 			break;
-		case(seasons::но€брь):
+		case seasons::но€брь:
 			std::cout << "Ќо€брь" << std::endl;
 			break;
-		case(seasons::декабрь):
+		case seasons::декабрь:
 			std::cout << "ƒекабрь" << std::endl;
 			break;
-		case(seasons::выход):
+		case seasons::выход:
 			std::cout <<"ƒо свидани€" << std::endl;
 			break;
 
